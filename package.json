@@ -1,7 +1,9 @@
- "engines": {
-    "node": "14.17.5"
-  }
+
 {
+  "engines" : { 
+    "npm" : ">=7.0.0",
+    "node" : ">=16.0.0"
+  },
   "description": "NativeScript Application",
   "license": "SEE LICENSE IN <your-license-filename>",
   "repository": {
