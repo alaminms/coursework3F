@@ -1,3 +1,6 @@
+ "engines": {
+    "node": "14.17.5"
+  }
 {
   "description": "NativeScript Application",
   "license": "SEE LICENSE IN <your-license-filename>",
